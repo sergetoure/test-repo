@@ -11,4 +11,8 @@ sergetoure09
 another one
 changed by st
 another from sergetoure09 rule set check
+<<<<<<< HEAD
 shopping cart
+=======
+he
+>>>>>>> 8e1fac9af82213ff1e2238f5be7ca3d2c16a0387
